@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PeoplesChamp46
 - 👀 I’m interested in UI Developing / Frontend Dev
 - 🌱 I’m currently learning Angular
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on web design
 - 📫 How to reach me ...
 
 <!---
